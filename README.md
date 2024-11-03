@@ -15,9 +15,6 @@ The Evolutionary Algorithm (EA) for solving the Traveling Salesman Problem (TSP)
 
  ![Flowchart of the EA Process](./flow_chart.jpg)
 
-## Summary
-This project investigates the application of **Evolutionary Algorithms (EAs)** to solve the **Traveling Salesman Problem (TSP)**, using city map datasets from **Brazil** and **Burma**. The EA implemented follows a structured process involving population generation, tournament selection, crossover, mutation, and iterative solution refinement to find the shortest route.
-
 ### Key Findings:
 - **Crossover Operators**:
   - **Ordered Crossover** improves solution quality, especially for simpler datasets, though it may increase computational time.
