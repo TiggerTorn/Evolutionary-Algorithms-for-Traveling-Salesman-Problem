@@ -13,4 +13,4 @@ The Evolutionary Algorithm (EA) for solving the Traveling Salesman Problem (TSP)
 - **Replacement**: Incorporate the fittest offspring into the population, replacing existing members.
 - **Iteration**: Repeat the process for 10,000 fitness evaluations or until the termination criterion is met to evolve towards the optimal TSP route.
 
- !(./flow_chart.jpg)
+ ![Flowchart of the EA Process](./flow_chart.jpg)
